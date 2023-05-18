@@ -23,8 +23,7 @@
     "webpack": "^5.82.1",
     "webpack-cli": "^4.10.0",
     "youch": "^3.2.3",
-    "youch-terminal": "^2.2.0",
-    "reflect-metadata": "^0.1.13"
+    "youch-terminal": "^2.2.0"
   },
   "dependencies": {
     "@adonisjs/core": "^5.9.0",
