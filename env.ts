@@ -15,8 +15,6 @@
 import Env from '@ioc:Adonis/Core/Env'
 
 export default Env.rules({
-  // @ts-ignore
-  PORT: process.env.PORT || 3000,
 	APP_KEY: Env.schema.string(),
 	APP_NAME: Env.schema.string(),
 	CACHE_VIEWS: Env.schema.boolean(),
